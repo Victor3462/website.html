@@ -53,7 +53,7 @@ nav img {
 
 .search {
   display: flex;
-  width: 50%;
+  width: 45%;
   position: relative;
   justify-content: end;
 }
