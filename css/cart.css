@@ -64,4 +64,26 @@
     cursor: pointer;
     color: black;
   }
+
+  .cartstatus{
+    display: flex;
+    flex-grow: 1;
+    height: 200px;
+    justify-content: center;
+    align-content: space-between;
   
+  }
+
+  ul{
+    list-style-type: none;
+  }
+  
+  .items{
+    display: flex;
+    justify-content: space-evenly;
+    
+  }
+  
+  .ritems{
+    text-align: center;
+  }
